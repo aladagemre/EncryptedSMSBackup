@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Güvenli SMS Yedekleme</string>
+    <string name="backup">Yedekle</string>
+    <string name="out_message_contact_name">Ben: </string>
+    <string name="press_button_to_start">Başlamak için Yedekle tuşuna basın.</string>
+    <string name="start_backup">Yedekleme sürüyor, lütfen bekleyin...</string>
+    <string name="backup_completed">Yedekleme tamamlandı!\nŞu konuma yazıldı:\n %1$s</string>
+    <string name="encrypt_my_sms_files">SMS Dosyalarımı şifrele</string>
+    <string name="encryption_key_">Şifre:</string>
+    <string name="encryption_key_2">Şifre (Tekrar):</string>
+    <string name="key_mismatch">Hata: Şifreler uyuşmuyor! İki şifrenin de aynı olduğundan emin olun.</string>
+    <string name="empty_key">Hata: Şifre boş olamaz.</string>
+    <string name="encrypt">Şifrele</string>
+    <string name="zip_all">Hepsini ziple</string>
+    <color android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/color1" name="white">#FFFFFF</color>
+</resources>

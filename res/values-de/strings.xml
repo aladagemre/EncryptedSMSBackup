@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Sichere SMS Backup</string>
+    <string name="backup">Starten Backup</string>
+    <string name="out_message_contact_name">Ich: </string>
+    <string name="press_button_to_start">Drücken Sie Start-Backup-Taste zum Starten</string>
+    <string name="start_backup">Sicherung in Bearbeitung, bitte warten...</string>
+    <string name="backup_completed">!Sicherung abgeschlossen\nOutput Pfad ist:\n %1$s</string>
+    <string name="encrypt_my_sms_files">Verschlüsseln Sie meine SMS-Dateien</string>
+    <string name="encryption_key_">Passwort:</string>
+    <string name="encryption_key_2">Passwort (Wiederholung):</string>
+    <string name="key_mismatch"> Fehler: Key Mismatch! Stellen Sie sicher, dass beide Tasten sind die gleichen</string>
+    <string name="empty_key"> Fehler: Key kann\'t leer sein.</string>
+    <string name="encrypt">Verschlüsseln</string>
+    <string name="zip_all">Zip sie alle</string>
+    <color android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/color1" name="white">#FFFFFF</color>
+</resources>

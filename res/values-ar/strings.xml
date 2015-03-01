@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">SecureSMSBackup</string>
+    <string name="backup">بدء النسخ الاحتياطي </string>
+    <string name="out_message_contact_name">لي: </string>
+    <string name="press_button_to_start">اضغط على زر ابدأ لبدء النسخ الاحتياطي</string>
+    <string name="start_backup">احتياطية في العملية، يرجى الانتظار...</string>
+    <string name="backup_completed">إكمال النسخ الاحتياطي!\nOutput path is:\n %1$s</string>
+    <string name="encrypt_my_sms_files">تشفير الملفات SMS بلدي </string>
+    <string name="encryption_key_">مفتاح التشفير: </string>
+    <string name="encryption_key_2">مفتاح التشفير (كرر):</string>
+    <string name="key_mismatch">خطأ: عدم تطابق مفتاح! تأكد من كل من مفاتيح هي نفسها </string>
+    <string name="empty_key">خطأ: المفتاح يمكن \ ر أن تكون فارغة.</string>
+    <string name="encrypt">تشفير</string>
+    <string name="zip_all">الرمز البريدي كل منهم</string>
+    <color android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/color1" name="white">#FFFFFF</color>
+</resources>

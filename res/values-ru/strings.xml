@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">SecureSMSBackup</string>
+    <string name="backup">Начало резервного копирования</string>
+    <string name="out_message_contact_name">Я:</string>
+    <string name="press_button_to_start">Нажмите кнопку Старт Резервное копирование кнопку, чтобы начать</string>
+    <string name="start_backup">Резервное копирование в процессе, пожалуйста, подождите...</string>
+    <string name="backup_completed">! Резервное копирование завершено\nOutput путь:\n %1$s</string>
+    <string name="encrypt_my_sms_files">Шифрование мои SMS файлы </string>
+    <string name="encryption_key_">Ключ шифрования:</string>
+    <string name="encryption_key_2">Ключ шифрования (повтор):</string>
+    <string name="key_mismatch">Ошибка: Ключ Несоответствие! Убедитесь, что оба ключи одинаковы </string>
+    <string name="empty_key">Ошибка: Ключ может \'т быть пустым.</string>
+    <string name="encrypt">шифровать</string>
+    <string name="zip_all">Zip их всех</string>
+    <color android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/color1" name="white">#FFFFFF</color>
+</resources>
