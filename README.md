@@ -1,8 +1,8 @@
-# Secure SMS Backup Pro
+# Encrypted SMS Backup
 
 This is an Android app that allows you securely export your SMS conversations to text files.
 
-Available on https://play.google.com/store/apps/details?id=com.aladagemre.SecureSMSBackupPro
+Download [on Google Play][play-link]
 
 You can't trust other SMS backup programs with Internet access, right? You don't know where they are uploading your private SMS conversations. All of the SMS backup programs on the play store require Internet access. This one doesn't.
 
@@ -20,8 +20,8 @@ Features:
 
 Example in the file manager:
 
-	SecureSMSBackup/2013-10-05-2353/John Doe.txt
-	SecureSMSBackup/2013-10-05-2353/Jack Brown.txt
+	EncryptedSMSBackup/2013-10-05-2353/John Doe.txt
+	EncryptedSMSBackup/2013-10-05-2353/Jack Brown.txt
 
 with contents:
 
@@ -37,3 +37,4 @@ This app is licenced with Apache 2 licence.
 Jaspyt library (which is used) is licenced with Apache2 as well. 
 Thanks to @Belozerow for his support in initial work.
 
+[play-link]: https://play.google.com/store/apps/details?id=com.aladagemre.SecureSMSBackupPro
