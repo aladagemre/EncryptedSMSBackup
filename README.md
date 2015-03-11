@@ -2,7 +2,7 @@
 
 This is an Android app that allows you securely export your SMS conversations to text files.
 
-Download [on Google Play][play-link]
+[Download on Google Play][play-link]
 
 You can't trust other SMS backup programs with Internet access, right? You don't know where they are uploading your private SMS conversations. All of the SMS backup programs on the play store require Internet access. This one doesn't.
 
