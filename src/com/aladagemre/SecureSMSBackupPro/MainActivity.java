@@ -158,7 +158,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd-HHmm");
 		SimpleDateFormat logdf = new SimpleDateFormat("yyyy-MM-dd HH:mm");
 
-		mDirectoryName = sdCard.getAbsolutePath() + "/SecureSMSBackup/"
+		mDirectoryName = sdCard.getAbsolutePath() + "/EncryptedSMSBackup/"
 				+ sdf.format(new Date());
 		File dir = new File(mDirectoryName);
 		dir.mkdirs();

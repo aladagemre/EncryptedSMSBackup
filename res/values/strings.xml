@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    <string name="app_name">SecureSMSBackup</string>
+    <string name="app_name">Encrypted SMS Backup</string>
     <string name="backup">Start Backup</string>
     <string name="out_message_contact_name">Me: </string>
     <string name="press_button_to_start">Press Start Backup button to start</string>
